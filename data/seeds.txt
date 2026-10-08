@@ -11,6 +11,7 @@ OneWave-AI/claude-code-mods
 yash-gadodia/claude-mods
 plaxagoras/clawd-tales
 kongyo2/context-view
+OG-Matcha/tessera
 BatuhanCakmakk/wavy-usage
 jarrodwatts/intermission
 hellosverre/claude-skins
@@ -50,4 +51,4 @@ MarcoCarnevali/claude-code-mods
 joshuatonga/mini-claude-mods
 twjackysu/claude-code-stock-ticker
 vynnlee/mods
-OG-Matcha/tessera
+SummerRiversound/review-inbox
